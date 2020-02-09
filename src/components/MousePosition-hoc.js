@@ -26,9 +26,13 @@ export const MousePositionHOC = Component =>
   }
 
 const MousePositionComponent = ({ x, y }) => (
-  <div>
-    <strong>X: </strong> {x}
-    <strong>Y: </strong> {y}
+  <div className="container">
+    <p>
+      <strong>X: </strong> {x}
+    </p>
+    <p>
+      <strong>Y: </strong> {y}
+    </p>
   </div>
 )
 
