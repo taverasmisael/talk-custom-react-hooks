@@ -1,9 +1,9 @@
 import React from 'react'
 
-import { MousePosition } from './components/MousePosition-hook'
+import { BackgroundSelector } from './components/BackgroundSelector'
 
 function App() {
-  return <MousePosition />
+  return <BackgroundSelector />
 }
 
 export default App
