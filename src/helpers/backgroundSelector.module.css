@@ -1,0 +1,15 @@
+.root {
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.name {
+  font-size: 5rem;
+  color: #fff;
+  font-family: monospace;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
