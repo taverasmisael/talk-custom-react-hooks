@@ -21,9 +21,13 @@ export class MousePosition extends PureComponent {
   render() {
     const { x, y } = this.state
     return (
-      <div>
-        <strong>X: </strong> {x}
-        <strong>Y: </strong> {y}
+      <div classname="container">
+        <p>
+          <strong>X: </strong> {x}
+        </p>
+        <p>
+          <strong>Y: </strong> {y}
+        </p>
       </div>
     )
   }
