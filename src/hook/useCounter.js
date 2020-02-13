@@ -1,6 +1,6 @@
 import { useReducer, useCallback } from 'react'
 
-export const useCounter = initialValue => {
+export const useCounter = (initialValue = 0) => {
   const [count, dispatch] = useReducer(counterReducer, initialValue)
 
   const increment = useCallback(() => dispatch({ type: 'INCREMENT' }), [])
