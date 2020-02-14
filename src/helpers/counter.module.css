@@ -1,0 +1,29 @@
+.root {
+  font-size: 16px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  appearance: none;
+  border: 0;
+  box-shadow: none;
+  background-color: transparent;
+
+  align-items: center;
+  background: #ed1250;
+  border-radius: 50%;
+  color: #fff;
+  display: flex;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 2em;
+  justify-content: center;
+  text-align: center;
+  width: 1.5em;
+  height: 1.5em;
+  margin: 0 5rem;
+}
+.count {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 5em;
+}
