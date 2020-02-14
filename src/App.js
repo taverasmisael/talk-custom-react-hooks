@@ -1,9 +1,9 @@
 import React from 'react'
 
-import { BackgroundSelector } from './components/BackgroundSelector'
+import { Counter } from './components/Counter'
 
 function App() {
-  return <BackgroundSelector />
+  return <Counter />
 }
 
 export default App
