@@ -21,4 +21,4 @@ feature/demo-4-test-custom-hooks
 feature/demo-4-test-custom-hooks-final
 ```
 
->> Presentación por Misael Taveras `el 21 de febrero del 2020 en Soluciones GBH para la comunidad de [React Dominicana](https://github.com/React-Dominicana).
+>> Presentación por Misael Taveras `el 21 de febrero del 2020 en Soluciones GBH para la comunidad de [React RD](https://github.com/React-RD).
